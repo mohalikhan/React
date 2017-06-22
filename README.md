@@ -5,3 +5,5 @@ Checkout this repo, install dependencies for each project, then start the gulp p
 > cd {Project Directory}
 > npm install
 > npm start
+
+use localhost:8080 for each project.
